@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Hospira device monitor</title>
+    <title>Monitor</title>
     <style>
         .mainTable {
             width: 800px;
